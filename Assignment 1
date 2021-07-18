@@ -1,0 +1,251 @@
+#Create a dictionary of 200 words with their more than one meaning.
+dictionary = { 
+'ability':'power or capacity to do or act physically, mentally, legally, morally, financially, etc // competence in an activity or occupation because of ones skill, training, or other qualification',
+'able':'having necessary power, skill, resources, or qualifications; qualified//showing talent, skill, or knowledg',
+'about':'of; concerning;in regard to//connected or associated with',
+'above':'in, at, or to a higher place//overhead, upstairs, or in the sky',
+'accept':'to agree or consent to; accede to//to agree or consent to; accede to',
+'according':'as stated by or in//depending on whether',
+'across':'from one side to the other of//beyond',
+'act':'Something done or performed//One of the major divisions of a play, opera, or film',
+'action':'a thing done-DEED//an act of will',
+'activity':'the quality or state of being active// a pursuit in which a person is active',
+'actually':'in act or in fact//in point of fact —used to suggest something unexpected',
+'add':' to join or unite so as to bring about an increase or improvement//to include as a member of a group',
+'address':' to mark directions for delivery on//to speak or write directly to',
+'administration':'performance of executive duties-MANAGEMENT//a body of persons who administer',
+'admit':' to allow scope for-PERMIT//to concede as true or valid',
+'adult':'fully developed and mature//dealing in or with explicitly sexual material',
+'affect':'to act on and cause a change in//to influence',
+'after':'following in time or place//so as to resemble',
+'again':'on the other hand// another time-once more',
+'against':'in opposition or hostility to//in competition with',
+'age':'one of the stages of life//an advanced stage of life',
+'agency':'an establishment engaged in doing business for another//the office or function of an agen',
+'agent':'one that acts or exerts power//a chemically, physically, or biologically active principle',
+'ago':'earlier than the present time//back',
+'agree':'to consent to as a course of action//to come to terms',
+'agreement':'the act or fact of agreeing//an arrangement as to a course of action',
+'ahead':' in a forward direction or position//in front',
+'air':'a light breeze//the medium of transmission of radio waves',
+'all':' the whole amount, quantity, or extent of//as much as possible',
+'allow':'PERMIT//to fail to restrain or prevent',
+'almost':'very nearly but not exactly or entirely//very near but not quite',
+'alone':'separated from others//exclusive of anyone or anything else',
+'along':'in the course of//in the course of',
+'already':'used as an intensive//prior to a specified or implied past, present, or future time',
+'also':'in addition//alike',
+'although':'in spite of the fact that//much as',
+'always':'at all times//in any event',
+'American':'an American Indian of North America or South America//a native or inhabitant of the U.S',
+'among':'in or through the midst of//in company or association with',
+'amount':'to be the same in meaning or effect as//to reach a total',
+'analysis':'a statement of such an examination//separation of a whole into its component parts',
+'and':'used in logic to form a conjunction',
+'animal':'MAMMAL',
+'another':'some other//different or distinct from the one first considered',
+'answer':'a correct response//a reply to a legal charge or suit',
+'any':'one or some indiscriminately of whatever kind//appreciably large or extended',
+'anyone':'any person at all',
+'anything':'any such thing//in any way',
+'appear':'to be or come in sight//to show up',
+'apply':'to bring into action//to lay or spread on',
+'approach':'to draw closer to//to be almost the same as',
+'area':'the surface included within a set of lines//a part of the surface of the body',
+'argue':'to give reasons for or against something//to contend or disagree in words',
+'arm':'a human upper limb//a limb of an invertebrate animal',
+'around':' in a circle or in circumference//in, along, or through a circuit',
+'arrive':'to reach a destination//to be near in time',
+'art':'a branch of learning//an occupation requiring knowledge or skill',
+'article':'a separate clause// a distinct often numbered section of a writing',
+'artist':'a person skilled in any of the arts//a person who is very good at something',
+'as':'to the same degree or amount//for instance-such as',
+'ask':'to call on for an answer//to put a question about',
+'assume':'to take to or upon oneself//to place oneself in',
+'at':'used as a function word to indicate the means, cause, or manner',
+'attack':'to set upon or work against forcefully//to set to work on',
+'attention':'the act or state of applying the mind to something',
+'attorney':'one who is legally appointed to transact business on anothers behalf',
+'audience':'a group of listeners or spectators//a reading, viewing, or listening public',
+'author':'the writer of a literary work//one that originates or creates something',
+'authority':'persons in command//power to influence or command thought, opinion, or behavior',
+'available':'present or ready for immediate use//not involved in a romantic relationship',
+'avoid':'to keep away from//to refrain from',
+'away':'on the way//from this or that place',
+'baby':'an extremely young child//the youngest of a group',
+'back':'the body considered as the wearer of clothes//capacity for labor, effort, or endurance',
+'bad':'failing to reach an acceptable standard//not fresh',
+'bag':'a bag for game//a puffed-out sag or bulge in cloth',
+'ball':'a round or roundish body or mass//a spherical or ovoid body used in a game or sport',
+'bank':'a piled-up mass of cloud or fog//a steep slope',
+'bar':'a solid piece or block of material that is longer than it is wide',
+'base':'the bottom of something considered as its support//the lower part of a wall',
+'be':'to constitute the same class as',
+'beat':'to strike repeatedly//to flap or thrash at vigorously',
+'beautiful':'having qualities of beauty',
+'because':'for the reason that//for the reason that',
+'become':'to come into existence//to come to be',
+'bed':'a piece of furniture on or in which to lie and sleep//a place for sleeping',
+'before':'in advance//at an earlier time',
+'begin':'to come into existence//to have a starting point',
+'behavior':'the manner of conducting//the manner of conducting',
+'behind':'later in time//in a secondary or inferior position',
+'believe':'to consider to be true or honest//to accept the word or evidence of',
+'benefit':'useful aid//financial help in time of sickness, old age, or unemployment',
+'best':'excelling all others//most productive of good',
+'better':'greater than half//improved in health or mental attitude',
+'between':'in common to//in intermediate relation to',
+'beyond':'on or to the farther side//in addition',
+'big':'large or great in dimensions, bulk, or extent//operating on a large scale',
+'bill':'the jaws of a bird together with their horny covering//the visor',
+'billion':'a number equal to 1,000 million//a very large number',
+'bit':' the biting or cutting edge or part of a tool//omething bitten or held with the teeth',
+'black':'having the very dark color of the night sky or the eyes pupil',
+'blood':'a comparable fluid of an invertebrate//human stock or lineage',
+'blue':'of the color whose hue is that of the clear sky',
+'body':'the main, central, or principal part//architecture',
+'book':'a set of written sheets of skin or paper or tablets of wood or ivory',
+'born':'brought forth by or as if by birth//deriving or resulting from',
+'both':'the one as well as the other',
+'box':'an open cargo container of a vehicle//a rigid typically rectangular container with or without a cover',
+'boy':'a male child from birth to adulthood//an immature male',
+'break':'to separate into parts with suddenness or violence',
+'bring':'o cause to be, act, or move in a special way//to cause to come into a particular state or condition',
+'brother':'one related to another by common ties or interests//one of a type similar to another',
+'budget':'finance',
+'building':'a usually roofed and walled structure built for permanent use',
+'business':' a usually commercial or mercantile activity engaged in as a means of livelihood//a commercial or sometimes an industrial enterprise',
+'buy':'to acquire by exchange or concession//to hire or obtain the services of',
+'by':'near to or next to//to and beyond a point near something',
+'call':'to command or request to come//to cry out in a loud voice',
+'camera':'a device for capturing a photographic image or recording a video, using film or digital memory',
+'campaign':'military operations for a specific objective//Obsolete the military operations of an army in the field for one season',
+'can':'to be able to//to know how to',
+'cancer':'any evil condition or thing that spreads destructively',
+'candidate':'a person who seeks an office, honor, etc//a student studying for a degree',
+'capital':'a city regarded as being of special eminence in some field of activity',
+'car':'an automobile//a vehicle running on rails, as a streetcar or railroad car',
+'card':'playing card//a usually rectangular piece of stiff paper',
+'care':'a cause or object of worry//a state of mind in which one is troubled',
+'career':'success in a profession//a course',
+'carry':'to move while supporting//to convey by direct communication',
+'case':'a set of circumstances or conditions//the object of investigation or consideration',
+'catch':'to capture or seize especially after pursuit//to take or entangle in or as if in a snare',
+'cause':'a reason for an action or condition//something that brings about an effect or a result',
+'cell':'a one-room dwelling occupied by a solitary person//a single room',
+'center':'the point around which a circle or sphere is described//a source from which something originates',
+'central':'containing or constituting a center//of primary importance',
+'century':'a period of 100 years//a group, sequence, or series of 100 like things',
+'certain':'known or proved to be true',
+'certainly':' in a manner that is certain//it is certain that',
+'chair':' a seat typically having four legs and a back for one person//an office or position of authority or dignity',
+'challenge':'to dispute especially as being unjust, invalid, or outmoded',
+'chance':'something that happens unpredictably without discernible human intention or observable cause',
+'environmental':'the circumstances, objects, or conditions by which one is surrounded',
+'especially':'in particular//used as an intensive',
+'establish':'to make firm or stable//to bring into existence',
+'eaglet' : 'Young//Eagle',
+'eager' : 'tribal//Flood',
+'earlock' : 'lock of ear//judaism',
+'earner' : 'People who earn//australian informal activity',
+'ear sewer' : 'dialect//dragonfly',
+'eastring' : 'Native of country//baltic',
+'edmond' : 'town in Oklahoma//rich',
+'eel' : 'snakelike marine animal//similar',
+'effable' : 'utterable//expressable',
+'effexor' : 'drug//hydrocholride',
+'effrction' :'breaking into house',
+'egeria' : 'a female advisor',
+'egmont' : 'montain in new zealand',
+'egoli' : 'local name of johnsberg',
+'egret' : 'local herons//aigrete',
+'eleati' : 'related to elea//philosophy',
+'electrides' : 'conductors//amber island',
+'electronica' : 'electronically genered music//electronics devies',
+'encephloma' : 'brain tumor//brain hemia',
+'encincture' : 'to grind//ring of hills',
+'enclosure' : 'instance of nearing//state of being closed',
+'encologist' : 'a person who writes an ercomium',
+'encyclical' : 'letter to bishops//general circular',
+'entropion' : 'inversion//infolding og eyelids',
+'envision' : 'to picture mentally',
+'eparchy' : 'adminstry subdivision//province',
+'epidiascope' : 'a type of magic',
+'erractic' : 'deviation of usual//inconsistent',
+'erwinia' : 'a rod shaped bacteria',
+'enthyrite' :'a mineral cobalt arsenate',
+'escort' : 'group of person accompying others//protection',
+'ethic' : 'body of moral principal//moral precepts',
+'exclosure' : 'area protected by fences',
+'factoid' : 'insignificant fact//something fictious',
+'facture' : 'making a thingh//bone broken',
+'faddist' : 'unusal diets',
+'faecal' : 'consistency//makeup',
+'falx' : 'shped like sickle//cerebral hemispere',
+'fameuse' : 'american like red apple',
+'fana' : 'unioin of sufi',
+'fanfic' : 'work of fiction//plot in movies',
+'fanti' : 'kwa language spoken',
+'faunistic' : 'geographical distribution of animal life',
+'faunule' : 'fauna of small single//adjasant strata',
+'faveism' : 'hemolytic anemia caused by ingestion',
+'fayalite' : 'iron silicon oxide',
+'galata' : 'a strong clothing of fabric',
+'cabin hook' : 'hook of Cabinet//eye of fastening',
+'cablecast' : 'a television program//to broadcast',
+'cableway' : 'System of hoisting//used in heavy work',
+'cadestral' : 'Surveying//relating a cadestre',
+'cadet' : 'Heavy woolen//Uniform in military',
+'cager' : 'Basketball player//Mining',
+'cahaba' : 'a River//dish of Japan',
+'calama' : 'a City//painting of carribean',
+'calamite' : 'Fossil plant//fuel'
+ 
+}
+def add_word():
+  word_2 = input('Enter the Word to add : ')
+  word_3 = input('Enter the Meaning of it : ')
+  dictionary[word_2.lower()]=word_3
+  print('\nWord Added Successfully!!')
+ 
+def rev_word():
+  word_4 = input('Enter the Word to Remove : ')
+  dictionary.pop(word_4.lower())
+  print('\nWord Removed Successfully!!')
+ 
+def find_word():
+  word_1 = input('Enter the Word to get Meaning of : ')
+  word=word_1.lower()
+  if word not in dictionary:
+    print(" \nWord does not exists in Dictionary")
+    y_n=input("\n Want to add this Word to Dictionary (yes/no) - ")
+   
+    y_n_1=y_n.lower()
+    if y_n_1 =='yes':
+      add_word()
+    elif y_n_1=='no':
+        print('ok!')
+    
+  else:
+      meaning=dictionary.get(word)
+      print('\nMeaning of -',word,':',meaning)
+ 
+ 
+print("\n WELCOME TO Dictionary")
+print('\n','Word Stocked = ',len(dictionary))
+while True:
+  print("\nMAIN MENU")  
+  print("1. Find Meaning")  
+  print("2. Add New Word")
+  print("3. Remove any Word")  
+  print("4. Exit")  
+  choice1 = int(input("Enter the Choice:"))
+  if choice1==1:
+    find_word()
+  elif choice1==2:
+    add_word()
+  elif choice1==3:
+    rev_word()
+  elif choice1==4:
+    break
+  else:print("\n Choose Again!!")
